@@ -21,8 +21,8 @@ include "header.php";
 				
 			</div>
 			<div class="main-banner-content">
-				<h1 class="main-banner-title">Soxonabox</h1>
-				<p class="main-banner-description">Estilo Sostenible y Etico</p>
+				<h1 class="main-banner-title">PlanetaBolsa</h1>
+				<p class="main-banner-description">Todo tipo de bolsas para un solo planeta</p>
 			</div>
 	</div>
  
@@ -32,7 +32,7 @@ include "header.php";
 		<section class="mision" id="mision">
 			<div class="main-section-div">
 					<h2>Misión</h2>
-					<p>La sostenibilidad y la ética desde el origen son nuestras metas, aportando personalidad y estilo. Nuestros calcetines estan realizados con materiales naturales y hechos por trabajadores con un sueldo digno. Presentamos una amplia gama de diseños, desde los más clásicos hasta los más atrevidos, para satisfacer la demanda de todos nuestros clientes.</p>
+					<p>Cada vez estamos mas interezados en tener porductos mas sostenibles con el medio hambiente, y en la misma linea que sean lo mas utiles para nuestra vida cotidiana, por ello en PlanetaBolsa nos enfocamos en buscar y comercializar bolsas que cumplan con las espectativas de nuestros clientes</p>
 			</div>
 			
 		</section>
@@ -66,8 +66,8 @@ include "header.php";
 	<footer class="site_footer">
 			<div class="contenedor clearfix">
 			  <div class="footer_informacion">
-				<h3>Sobre <span>SOXONABOX</span></h3>
-				<p>Proyecto final realizado por Borja Fernandez Gomez, Carlos Monroy Zapata y Pedro Osorio Rodriguez, estudiantes de segundo año en IFP en derrallo de aplicacione web.</p>
+				<h3>Sobre <span>PlanetaBolsa</span></h3>
+				<p>Proyecto web realizado por Carlos David Monroy Zapata.</p>
 			  </div>
 			  
 			  <div class="menu_footer">
@@ -82,7 +82,7 @@ include "header.php";
 			  </div>
 			</div>
 		  </footer>
-  <p class="copyright">Todos los derechos Reservados SOXONABOX 2019</p>
+  <p class="copyright">Todos los derechos Reservados PlanetaBolsa 2021</p>
   <script type="text/javascript" src="js/scripts.js"></script>
 
 </body>

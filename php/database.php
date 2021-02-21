@@ -3,7 +3,7 @@
 $server = 'localhost';
 $username = 'root';
 $password = '';
-$database = 'soxonabox';
+$database = 'PlanetaBolsa';
 
 
 
